@@ -1,0 +1,3 @@
+﻿  Flashlight.cpp
+D:\игра Фонарик\Flashlight\Flashlight\Flashlight.cpp(311): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Flashlight.vcxproj -> D:\игра Фонарик\Flashlight\Debug\Flashlight.exe
